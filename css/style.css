@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(230, 221, 176);
+}
+
+h1{
+    color:rgb(13, 12, 15);font-family:Verdana, Geneva, Tahoma, sans-serif;text-align:center;background-color:orange;
+}
+
+p1{
+    font-size:120%;text-align:center;
+}
+
+p2{
+    color:black;font-size:large;line-height:50px;
+}
+
+#Links{
+    float:left;
+    width:15%;height:100%;background-color:#ccc;
+}
